@@ -1,0 +1,15 @@
+
+# MinecraftMazer - Config
+
+# This is the tool used to select dimensions for mazes
+selectTool: Stick
+
+# This is the tool used to select the entrances and exits for mazes
+2ndSelectTool: Arrow
+
+# This marks the selected coords with wool when its set to "true"
+# This doesn't affect performance, but it is pretty cool
+markSelections: true
+
+# This is the default block type used for making mazes
+blockType: Stone

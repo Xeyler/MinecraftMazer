@@ -1,0 +1,13 @@
+main: me.xeyler.MazeMain
+version: 0.1
+description: A plugin that generates mazes.
+author: Brigham9593
+name: MinecraftMazer
+commands:
+   makemaze:
+      description: generates a maze
+      usage: /<command>
+      permission: MinecraftMazer.allowed
+permissions:
+   MinecraftMazer.allowed:
+      default: op
